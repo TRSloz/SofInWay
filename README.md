@@ -1,7 +1,7 @@
 # SofInWay
 Test Tasks
 
-Решение заданий 1 и 2 тестового задания
+Решение 1 и 2 тестового задания
 
 `Test Tasks - Lozovskyi.pptx` - отчет в виде презентации;  
 `Test tasks - Lozovskyi.pdf` - сгенерированый в pdf блокнот с решением заданий;  
